@@ -60,7 +60,3 @@ Este projeto utiliza a [ExchangeRate-API](https://www.exchangerate-api.com/) par
 Veja uma captura de tela do aplicativo em funcionamento:
 
 ![Captura de Tela](Captura%20de%20tela%202025-08-14%20065326.png)
-
----
-
-Feito com ❤️ por [Seu Nome ou Nome de Usuário do GitHub]
